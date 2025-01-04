@@ -1,2 +1,2 @@
-# Moveduo
+# MoveDuo
 Internship Swift Project
